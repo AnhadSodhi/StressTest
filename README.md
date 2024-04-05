@@ -12,4 +12,6 @@
 * Manually add all of the .jar files included to the build path
 * Run Main.java
 
+![image](https://github.com/AnhadSodhi/StressTest/assets/96636073/a8f0032c-3ded-4dc8-b845-e40fba1c2987)
+
 #### Thanks to JogAmp.org, JOCL.org, and profesorfalken (https://github.com/profesorfalken/jSensors) for the libraries used in this project
