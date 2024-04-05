@@ -11,3 +11,5 @@
 * Clone this repository and open it as a project in your favourite IDE (Eclipse IDE was used for this project)
 * Manually add all of the .jar files included to the build path
 * Run Main.java
+
+#### Thanks to JogAmp.org, JOCL.org, and profesorfalken (https://github.com/profesorfalken/jSensors) for the libraries used in this project
